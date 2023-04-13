@@ -79,7 +79,7 @@ from .filters import cql2_text_timestamp_comparisons
 
 logger = logging.getLogger(__name__)
 
-LATEST_STAC_API_VERSION = "https://api.stacspec.org/v1.0.0-rc.2"
+LATEST_STAC_API_VERSION = "https://api.stacspec.org/v1.0.0-rc.3"
 
 
 class Method(Enum):
